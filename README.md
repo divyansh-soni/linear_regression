@@ -12,10 +12,14 @@
    #### ploting the data to visualise it
      Now, let's plot the given data set. i.e., profit vs population graph. It looks like this...
      
+     
+     
    #### Creating the regression model
      since, we have to solve this problem by linnear regression and moreover it is univariate. so, let's take our hypothesis 
      function as 
+ 
+![capture](https://user-images.githubusercontent.com/31219586/34670901-41879df4-f49e-11e7-8d72-3b755288ada0.PNG)
 
-     then, sum_sqared_error is
+
      
      
