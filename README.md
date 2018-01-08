@@ -32,5 +32,5 @@ clearly, sum_sqared_function is written as...
    ##Usage
  Now,we get our values of theta, for the hypothesis function. So, we can predict the profit for the required values.
  hence, 
-      h(35,000)=theta0+theta1*35,000=
- and, h(70,000)=theta0+theta1*70,000=      
+      h(35,000)=theta0+theta1*(35,000)=
+ and, h(70,000)=theta0+theta1*(70,000)=      
