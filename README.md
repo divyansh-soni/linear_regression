@@ -19,6 +19,6 @@
      hypothesis  function as ...
 ![capture](https://user-images.githubusercontent.com/31219586/34670901-41879df4-f49e-11e7-8d72-3b755288ada0.PNG)
 
- 
+ clearly, sum_sqared_function is written as...
      
      
