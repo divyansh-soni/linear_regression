@@ -11,15 +11,14 @@
      data set, we have to learn and then predict the output for given population, so it is a regression problem.
    #### ploting the data to visualise it
      Now, let's plot the given data set. i.e., profit vs population graph. It looks like this...
-     
+![untitled](https://user-images.githubusercontent.com/31219586/34671025-c10ad6b8-f49e-11e7-9c97-ad1efa3ffe7c.png)
      
      
    #### Creating the regression model
-     since, we have to solve this problem by linnear regression and moreover it is univariate. so, let's take our hypothesis 
-     function as 
- 
+     since, we have to solve this problem by linnear regression and moreover it is univariate. so, let's take our
+     hypothesis  function as ...
 ![capture](https://user-images.githubusercontent.com/31219586/34670901-41879df4-f49e-11e7-8d72-3b755288ada0.PNG)
 
-
+ 
      
      
