@@ -15,6 +15,7 @@
    #### Creating the regression model
      since, we have to solve this problem by linnear regression and moreover it is univariate. so, let's take our hypothesis 
      function as 
+
      then, sum_sqared_error is
      
      
