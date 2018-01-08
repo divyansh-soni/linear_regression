@@ -23,9 +23,10 @@ clearly, sum_sqared_function is written as...
  
 ![image](https://user-images.githubusercontent.com/31219586/34671179-876b954a-f49f-11e7-9a04-9fd86efca112.png)    
      
-now, we need to minimize this sum_squared_function by using gradient descent i.e., choosing the values of theta 
-so that function assumes minimum value. this can be done by gradient descent method. i.e., updating values of 
-theta as..
+  now, we need to minimize this sum_squared_function by using gradient descent i.e., choosing the values of theta 
+  so that function assumes minimum value. this can be done by gradient descent method. i.e., updating values of 
+  theta as..
 
+![image](https://user-images.githubusercontent.com/31219586/34671461-bf4a932a-f4a0-11e7-921e-477c3eab70ae.png)
 
 
